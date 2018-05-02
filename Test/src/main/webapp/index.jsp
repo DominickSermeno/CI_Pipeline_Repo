@@ -2,7 +2,7 @@
 <body>
 <h1>JENKINS WORKED!</h1>
 
-<p> testing to see if it auto delpoys from github </p>
+<p> testing to see if it auto updates from github </p>
 
 </body>
 </html>
